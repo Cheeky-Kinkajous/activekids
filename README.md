@@ -1,7 +1,10 @@
 # activekids
 
-Once this repo has been forked you can start the app by doing:  npm start
+Once this repo has been forked you can start the app by running the following command:
 
+```javascript
+npm start
+```
 Joes-MacBook-Pro:activekids joekeohan$ npm start
 
 > angular-seed@0.0.0 prestart /Users/joekeohan/wdi/github/activekids
